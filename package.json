@@ -1,0 +1,14 @@
+
+{
+  "name": "@BlackOwlW/CMDB_Visualizer",
+  "version": "0.0.0",
+  "description": "The Flare package hierarchy.",
+  "keywords": ["datasets"],
+  "homepage": "https://github.com/BlackOwlW/CMDB_Visualizer/blob/master/",
+  "repository": "https://github.com/BlackOwlW/CMDB_Visualizer/blob/master/",
+  "license": "ISC",
+  "author": {
+    "name": "Black Owl W",
+    "url": "https://nothung.com"
+  }
+}
