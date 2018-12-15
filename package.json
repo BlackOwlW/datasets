@@ -2,10 +2,10 @@
 {
   "name": "@BlackOwlW/CMDB_Visualizer",
   "version": "0.0.0",
-  "description": "The Flare package hierarchy.",
+  "description": "The CMDB package hierarchy.",
   "keywords": ["datasets"],
-  "homepage": "https://github.com/BlackOwlW/CMDB_Visualizer/blob/master/",
-  "repository": "https://github.com/BlackOwlW/CMDB_Visualizer/blob/master/",
+  "homepage": "https://github.com/BlackOwlW/datasets/tree/master",
+  "repository": "https://github.com/BlackOwlW/datasets/tree/master",
   "license": "ISC",
   "author": {
     "name": "Black Owl W",
